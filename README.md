@@ -51,16 +51,8 @@ from .models import Student,StudentAdmin
 # Register your models here.
 admin.site.register(Student,StudentAdmin)
 ```
-
-
-
-
-
 ## OUTPUT
 ![image](https://github.com/Ganesh23013987/django-orm-app/assets/147473768/60364a56-5901-4b84-b50b-bb5f41c6e472)
-
-
-
 
 ## RESULT:
 Then, the program is successfully executed.
