@@ -25,7 +25,7 @@ login with your username and password in django and select student table and the
 ### STEP 5:
 End the program
 
-## PROGRAM
+## PROGRAM:
 ## code to write in models.py
 ```
 from django.db import models
