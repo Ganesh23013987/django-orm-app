@@ -26,7 +26,7 @@ login with your username and password in django and select student table and the
 End the program
 
 ## PROGRAM:
-## code to write in models.py
+## code to write in 'models.py'
 ```
 from django.db import models
 from django.contrib import admin
@@ -43,7 +43,7 @@ class StudentAdmin(admin.ModelAdmin):
     list_display=('referencenumber','name','age','email','number')
 
 ```
-## program to write in admin.py 
+## program to write in 'admin.py' 
 ```
 from django.contrib import admin
 from .models import Student,StudentAdmin
